@@ -7,4 +7,5 @@
 | 3 | Print right angled triangle | nested for loop |
 | 4 | HCF calculator | Eucleadian algorithm |
 | 5 | Reverse integers | Used the idea of dividends and remainders |
-| 6 | Sum of natural numbers | Just used a for loop |
+| 6 | Sum of natural numbers | for loop for repeated addition |
+| 7 | Factorial calculator with loop | for loop for repeated multiplication |
